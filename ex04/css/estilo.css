@@ -1,0 +1,108 @@
+html {
+    font: 15pt Arial;
+}
+
+body {
+    background: url("wallpaper.jpg") no-repeat top center fixed;
+    background-size: cover;
+}
+
+div::before {
+    content: " Bento Projeto - by Ronaldo Rodrigues Bento ";
+    font: 15pt Arial;
+    font-weight: bold;
+    color: white;
+    background-color: #b33535;
+    padding: 5px;
+    display: block;
+    position: relative;
+    top: -10px;
+    left: -10px;
+    width: 570px;
+}
+
+div {
+    background-color: rgba(255,255,255,.8);
+    margin: 100px auto 100px auto;
+    padding: 10px;
+    width: 560px;
+    min-height:350px;
+}
+
+a {
+    color: #273747;
+    text-decoration: none;
+    font-weight: bold;
+    font: 11pt Helvetica;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+span.foco {
+    font-weight: bold;
+    color: #7e050c;
+}
+
+/*Formatação do Album fotos*/
+ul#album-fotos {
+    width: 700px;
+    margin: 0 auto;
+    padding: 50px;
+    overflow: hidden;
+    list-style: none;
+}
+
+ul#album-fotos li {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 5px solid #fff;
+    background-color: #fff;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.4);
+    -webkit-transition: all .5s ease-in;
+}
+
+ul#album-fotos li span{
+    opacity: 0;
+    color: #fff;
+    text-shadow: 2px 2px 2px #000;
+    background-color: rgba(0, 0, 0, .3);
+    font-size: 10pt;
+    line-height: 370px;
+    padding: 5px;
+}
+
+ul#album-fotos li:hover {
+    -webkit-transform: scale(1.5);
+}
+
+ul#album-fotos li:hover span {
+    opacity: 1;
+} 
+
+ul#album-fotos li#foto5 {
+    background: url('../galeria5.jpg') no-repeat;
+    background-position:50% 50%;
+    background-size: 400px 400px;
+    background-color: #fff;
+}
+
+ul#album-fotos li#foto5:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#foto6 {
+    background: url('../galeria6.jpg') no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #fff;
+}
+
+ul#album-fotos li#foto6:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
