@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/estilo.css"/>
+    <title>Bento Projeto</title>
+</head>
+<body>
+    <style>
+        h1 {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 2em;
+            text-align: center;
+           text-shadow: 3px 3px 3px  rgba(0, 0, 0, 0.397);
+            color: darkred;
+        }
+    </style>
+    <section>
+        <div>
+            <h1>Formulário de Contato</h1>
+            <form method="post" id="fContato" action="mailto:contato@cursoemvideo.com">
+                <fieldset id="usuario"><legend><strong>Identificação do Usuário</strong></legend>
+                    <p><label for="cNome"><strong>Nome: </strong></label>  <input type="text" name="tNome" id="cNome" size="30" maxlength="30" placeholder="Nome Completo:"></p>
+                    <p><label for="cSenha"><strong>Senha: </strong></label>  <input type="password" name="tSenha" id="cSenha" size="8" maxlength="8" placeholder="8 dígitos:"> </p>
+                    <p><label for="cMail"><strong>E-mail: </strong></label>  <input type="email" name="tMail" id="cMail" size="30" maxlength="40" placeholder="Dígite seu E-mail:"></p>
+                    <fieldset id="sexo"><legend><label for="sexo"><strong>Sexo</strong></label></legend> 
+                        <input type="radio" name="tSexo" id="cMasc"> <label for="cMasc"> <strong>Masculino</strong></label><br>
+                        <input type="radio" name="tSexo" id="cFem"><label for="cFem"> <strong>Feminino</strong></label>
+                    </fieldset>
+                    <p><label for="cNasc"><strong>Data de Nascimento: </strong></label> <input type="date" name="tNasc" id="cNasc"> </p>
+                </fieldset>
+            </form>
+             <p style="text-align: center;"><strong>Copyright</strong> &copy; 2022 - by <em>Ronaldo Rodrigues Bento</em></p>
+        </div>
+    </section> 
+</body>
+</html>
+ 
