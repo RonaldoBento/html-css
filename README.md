@@ -6,7 +6,7 @@
 para seu próprio aprendizado. Espero que seja útil 
 o conteúdo disponibilizado. 
 
-<img src="logo.png" alt="logo html-css no formato png" >
+<img src="logo.png" alt="logo html-css no formato png"><br>
 
 <a href="https://ronaldobento.github.io/html-css/exercicios/ex01/index.html" target="_blank" rel="external" title="exercício 01"><strong>exercício 01</strong></a>
 
