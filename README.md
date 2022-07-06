@@ -23,3 +23,7 @@ o conteúdo disponibilizado.
 <a href="https://ronaldobento.github.io/html-css/exercicios/ex08/index.html" target="_blank" rel="external" title="exercício 08"><strong>exercício 08</strong></a>
 
 <a href="https://ronaldobento.github.io/html-css/exercicios/ex09/index.html" target="_blank" rel="external" title="exercício 09"><strong>exercício 09</strong></a>
+
+<a href="https://ronaldobento.github.io/html-css/exercicios/ex10/index.html" target="_blank" rel="external" title="exercício 10"><strong>exercício 10</strong></a>
+
+<a href="https://ronaldobento.github.io/html-css/exercicios/ex11/index.html" target="_blank" rel="external" title="exercício 11"><strong>exercício 11</strong></a>

@@ -22,11 +22,11 @@
         <div>
             <h1>Formulário de Contato</h1>
             <form method="post" id="fContato" action="mailto:contato@cursoemvideo.com">
-                <fieldset id="endereco"><legend><strong>Endereço do Usuário</strong></legend>
-                    <p><label for="cRua"><strong>Logradouro: </strong></label><input type="text" name="tRua" id="cRua" size="30" maxlength="80" placeholder="Rua, Avenida, Travessa..." autofocus></p> 
-                    <p><label for="cNum"><strong>Número: </strong></label><input type="number" name="tNum" id="cNum" min="0" max="99999"> </p> 
-                    <p><label for="cEst"><strong>Estado: </strong></label><input type="text" name="tEst" id="cEst" size="30" maxlength="50" placeholder="Dígite seu Estado:"></p>
-                    <p><label for="cCid"><strong>Cidade: </strong></label><input type="text" name="tCid" id="cCid" size="30" maxlength="50" placeholder="Dígite dua Cidade:"></p> 
+                <fieldset id="mensagem"><legend><strong>Mensagem do Usuário</strong></legend>
+                    <p><label for="cUrg"><strong>Grau de Urgência: </strong></label>
+                    <em>Mín</em><input type="range" name="tUrg" id="cUrg" min="0" max="10" step="2"><em>Máx</em></p>
+                    <p><label for="cMsg"><strong>Mensagem: </strong></label>
+                    <textarea name="tMsg" id="cMsg" cols="40" rows="5" placeholder="Deixe aqui sua mensagem:" autofocus></textarea></p>
                 </fieldset>
             </form>
              <p style="text-align: center;"><strong>Copyright</strong> &copy; 2022 - by <em>Ronaldo Rodrigues Bento</em></p>
