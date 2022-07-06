@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/estilo.css"/>
+    <title>Bento Projeto</title>
+</head>
+<body>
+    <style>
+        h1 {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 2em;
+            text-align: center;
+           text-shadow: 3px 3px 3px  rgba(0, 0, 0, 0.397);
+            color: darkred;
+        }
+    </style>
+    <section>
+        <div>
+            <h1>Formulário de Contato</h1>
+            <form method="post" id="fContato" action="mailto:contato@cursoemvideo.com">
+                <fieldset id="endereco"><legend><strong>Endereço do Usuário</strong></legend>
+                    <p><label for="cRua"><strong>Logradouro: </strong></label><input type="text" name="tRua" id="cRua" size="30" maxlength="80" placeholder="Rua, Avenida, Travessa..."></p> 
+                    <p><label for="cNum"><strong>Número: </strong></label><input type="number" name="tNum" id="cNum" min="0" max="99999"> </p> 
+                    <p><label for="cEst"><strong>Estado: </strong></label><input type="text" name="tEst" id="cEst" size="30" maxlength="50" placeholder="Dígite seu Estado:"></p>
+                    <p><label for="cCid"><strong>Cidade: </strong></label><input type="text" name="tCid" id="cCid" size="30" maxlength="50" placeholder="Dígite dua Cidade:"></p> 
+                </fieldset>
+            </form>
+             <p style="text-align: center;"><strong>Copyright</strong> &copy; 2022 - by <em>Ronaldo Rodrigues Bento</em></p>
+        </div>
+    </section> 
+</body>
+</html>
+ 
