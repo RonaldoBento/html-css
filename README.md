@@ -1,12 +1,14 @@
 # html-css
  Exercícios de HTML5 e CSS3
 
- IMPORTANTE
- Você tem todo o direito de usar esse material 
-para seu próprio aprendizado. Espero que seja útil 
-o conteúdo disponibilizado. 
+ ## IMPORTANTE ##
+ <p style="text-size:1.2em; text-align:justify;">Você tem todo o direito de usar esse material para seu próprio aprendizado. Espero que seja útil o conteúdo disponibilizado.</p> 
 
 <img src="logo.png" alt="logo html-css no formato png"><br>
+
+<p style="text-size:1.2em; text-align:justify;">Lista de exercícios de HTML-CSS e Java Script.</p> 
+
+<img src="captura.png" alt="tela no formato png"><br>
 
 <a href="https://ronaldobento.github.io/html-css/exercicios/ex01/index.html" target="_blank" rel="external" title="exercício 01"><strong>exercício 01</strong></a>
 
@@ -31,3 +33,5 @@ o conteúdo disponibilizado.
 <a href="https://ronaldobento.github.io/html-css/exercicios/ex11/index.html" target="_blank" rel="external" title="exercício 11"><strong>exercício 11</strong></a>
 
 <a href="https://ronaldobento.github.io/html-css/exercicios/ex12/index.html" target="_blank" rel="external" title="exercício 12"><strong>exercício 12</strong></a>
+
+<a href="https://ronaldobento.github.io/html-css/exercicios/ex13/index.html" target="_blank" rel="external" title="exercício 13"><strong>exercício 13</strong></a>
