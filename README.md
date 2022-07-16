@@ -1,14 +1,21 @@
 # html-css
- Exercícios de HTML5 e CSS3
-
+ 
+ 
+ <img src="logo.png" alt="logo html-css no formato png"><br>
+ 
+ <p align="center">Exercícios Básicos de HTML5-CSS3 e Java Script<p>
+ 
  ## IMPORTANTE ##
- <p style="text-size:1.2em; text-align:justify;">Você tem todo o direito de usar esse material para seu próprio aprendizado. Espero que seja útil o conteúdo disponibilizado.</p> 
+ <p align="center">Você tem todo o direito de usar esse material para seu próprio aprendizado. Espero que seja útil o conteúdo disponibilizado.</p> 
+ 
+ ## Exemplo do código:
 
-<img src="logo.png" alt="logo html-css no formato png"><br>
+ <img src="captura.png" alt="tela no formato png"><br>
+ 
 
-<p style="text-size:1.2em; text-align:justify;">Lista de exercícios de HTML-CSS e Java Script.</p> 
+## Lista de exercícios de HTML-CSS e Java Script. 
 
-<img src="captura.png" alt="tela no formato png"><br>
+<p>O <strong>GitHub Pages</strong> é um serviço de hospedagem de site estático que usa arquivos HTML, CSS e JavaScript diretamente de um repositório no GitHub e, como opção, executa os arquivos por meio de um processo e publica um site.</p><br>
 
 <a href="https://ronaldobento.github.io/html-css/exercicios/ex01/index.html" target="_blank" rel="external" title="exercício 01"><strong>exercício 01</strong></a>
 
