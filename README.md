@@ -1,18 +1,24 @@
-# html-css
- Exercícios de HTML5 e CSS3
-
+# HTML-CSS-JAVASCRIPT
+ 
+ 
+ <img src="logo.png" alt="logo html-css no formato png"><br>
+ 
+ <p align="center"><strong>Exercícios Básicos de HTML5-CSS3 e Java Script</strong><p>
+ 
  ## IMPORTANTE ##
- <p style="text-size:1.2em; text-align:justify;">Você tem todo o direito de usar esse material para seu próprio aprendizado. Espero que seja útil o conteúdo disponibilizado.</p> 
+ <p>Você tem todo o direito de usar esse material para seu próprio aprendizado. Espero que seja útil o conteúdo disponibilizado.</p> 
+ 
+ ## Exemplo do código:
 
-<img src="logo.png" alt="logo html-css no formato png"><br>
+ <br><img src="captura.png" alt="tela no formato png"><br>
 
-## Alguns Exemplos:
+ <img src="login.png" alt="tela no formato png"><br>
 
-<br><img src="captura.png" alt="tela no formato png"><br>
+ <img src="lampada.png" alt="tela no formato png"><br>
+ 
+## Lista de exercícios de HTML-CSS
 
-<img src="login.png" alt="tela no formato png"><br>
-
-## Lista de exercícios de HTML-CSS e Java Script
+<br><p>O <strong>GitHub Pages</strong> é um serviço de hospedagem de site estático que usa arquivos HTML, CSS e JavaScript diretamente de um repositório no GitHub e, como opção, executa os arquivos por meio de um processo e publica um site.</p><br>
 
 <a href="https://ronaldobento.github.io/html-css/exercicios/ex01/index.html" target="_blank" rel="external" title="exercício 01"><strong>exercício 01</strong></a>
 
@@ -41,3 +47,4 @@
 <a href="https://ronaldobento.github.io/html-css/exercicios/ex13/index.html" target="_blank" rel="external" title="exercício 13"><strong>exercício 13</strong></a>
 
 <a href="https://ronaldobento.github.io/html-css/exercicios/ex14/index.html" target="_blank" rel="external" title="exercício 14"><strong>exercício 14</strong></a>
+
