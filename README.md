@@ -6,9 +6,13 @@
 
 <img src="logo.png" alt="logo html-css no formato png"><br>
 
-<p style="text-size:1.2em; text-align:justify;">Lista de exercícios de HTML-CSS e Java Script.</p> 
+## Alguns Exemplos:
 
-<img src="captura.png" alt="tela no formato png"><br>
+<br><img src="captura.png" alt="tela no formato png"><br>
+
+<img src="login.png" alt="tela no formato png"><br>
+
+## Lista de exercícios de HTML-CSS e Java Script
 
 <a href="https://ronaldobento.github.io/html-css/exercicios/ex01/index.html" target="_blank" rel="external" title="exercício 01"><strong>exercício 01</strong></a>
 
@@ -35,3 +39,5 @@
 <a href="https://ronaldobento.github.io/html-css/exercicios/ex12/index.html" target="_blank" rel="external" title="exercício 12"><strong>exercício 12</strong></a>
 
 <a href="https://ronaldobento.github.io/html-css/exercicios/ex13/index.html" target="_blank" rel="external" title="exercício 13"><strong>exercício 13</strong></a>
+
+<a href="https://ronaldobento.github.io/html-css/exercicios/ex14/index.html" target="_blank" rel="external" title="exercício 14"><strong>exercício 14</strong></a>
