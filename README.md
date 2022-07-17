@@ -8,7 +8,7 @@
  ## IMPORTANTE ##
  <p>Você tem todo o direito de usar esse material para seu próprio aprendizado. Espero que seja útil o conteúdo disponibilizado.</p> 
  
- ## Exemplos dos códigos:
+ ## Exemplos de códigos:
 
  <br><img src="captura.png" alt="tela no formato png"><br>
 
