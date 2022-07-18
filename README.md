@@ -6,8 +6,11 @@
  <p align="center"><strong>Exercícios Básicos de HTML5-CSS3 e Java Script</strong><p>
  
  ## IMPORTANTE ##
- <p>Você tem todo o direito de usar esse material para seu próprio aprendizado. Espero que seja útil o conteúdo disponibilizado.</p> 
  
+  [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RonaldoBento/html-css/blob/main/LICENSE) 
+  
+ <p>Você tem todo o direito de usar esse material para seu próprio aprendizado. Espero que seja útil o conteúdo disponibilizado.</p> 
+  
  ## Exemplos de códigos:
 
  <br><img src="captura.png" alt="tela no formato png"><br>
