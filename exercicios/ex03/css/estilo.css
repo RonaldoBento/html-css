@@ -1,5 +1,5 @@
 html {
-    font: 15pt Arial;
+    font: 1em Arial;
 }
 
 body {
@@ -9,7 +9,7 @@ body {
 
 div::before {
     content: " Bento Projeto - by Ronaldo Rodrigues Bento ";
-    font: 15pt Arial;
+    font: 1em Arial;
     font-weight: bold;
     color: white;
     background-color: #b33535;
@@ -33,7 +33,7 @@ a {
     color: #273747;
     text-decoration: none;
     font-weight: bold;
-    font: 11pt Helvetica;
+    font: 1em Helvetica;
 }
 
 a:hover {
@@ -70,7 +70,7 @@ ul#album-fotos li span{
     color: #fff;
     text-shadow: 2px 2px 2px #000;
     background-color: rgba(0, 0, 0, .3);
-    font-size: 10pt;
+    font-size: 1em;
     line-height: 370px;
     padding: 5px;
 }
