@@ -5,7 +5,7 @@
  
  <p align="center"><strong>Exercícios Básicos de HTML5-CSS3 e Java Script</strong><p>
  
- ## IMPORTANTE ##
+ ## IMPORTANTE 
  
   [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RonaldoBento/html-css/blob/main/LICENSE) 
   
